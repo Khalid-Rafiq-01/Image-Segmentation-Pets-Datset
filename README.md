@@ -15,7 +15,6 @@ Analyses the effect of resizing images of varying resolution in a dataset to a c
     Crops the image to the largest integral value of patch size.
     
     Creates  integral number of patches from the cropped  image.
-    
-    
+https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/cat%201.png
 
     
