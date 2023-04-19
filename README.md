@@ -35,4 +35,4 @@ Visulaization of various feature maps in the basic UNet:
 
 ![Without Skip Connection](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(22).png)
 
-**Note-** A depthwise average is to visualize outcome of multiple feature maps resulting from convolutions.
+**Note-** A depthwise average is used to visualize outcome of multiple feature maps resulting from convolutions.
