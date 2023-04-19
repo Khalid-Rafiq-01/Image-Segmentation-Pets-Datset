@@ -15,3 +15,6 @@ Removing Images that contain a lot of sparse information(percentage of backgroun
 Introducing a finction called reassemble that reassembles patches of predicted masks back into the original large mask.
 
 ![Part 3](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(19).png)
+
+**Comparision of all the pretrined models**
+![ReSize VS Patches](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(20).png)
