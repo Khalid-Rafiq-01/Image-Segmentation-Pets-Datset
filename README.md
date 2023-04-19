@@ -30,3 +30,9 @@ What happens to the basic UNet Model if we **avoid the skip Layers?**
 Visulaization of various feature maps in the basic UNet:
 
 ![Basic UNet Visualization](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(21).png)
+
+**Without using the Skip connections**
+
+![Without Skip Connection](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(22).png)
+
+**Note-** A depthwise average is to visualize outcome of multiple feature maps resulting from convolutions.
