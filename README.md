@@ -24,6 +24,13 @@ Introducing a function called **reassemble** that reassembles patches of predict
 
 
 
+
+
+
+
+
+
+
 **EXPERIMENT 2-**
 What happens to the basic UNet Model if we **avoid the skip Layers?** 
 
