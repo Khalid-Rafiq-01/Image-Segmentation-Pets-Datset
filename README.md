@@ -10,4 +10,5 @@ Introducing function called block_tiles that creates patches of user defined res
 Removing Images that contain a lot of sparse information(percentage of background pixels in a patch)
 ![part 2](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(18).png)
 
-
+Introducing a finction called reassemble that reassembles patches of predicted masks back into the original large mask.
+![Part 3](https://github.com/Khalid-Rafiq-01/Image-Segmentation-Pets-Datset/blob/main/Images/Screenshot%20(19).png)
